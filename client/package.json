@@ -22,7 +22,7 @@
     "@angular/router": "~7.2.0",
     "@angular/service-worker": "~7.2.0",
     "core-js": "^2.5.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ngx-order-pipe": "^2.0.2",
     "rxjs": "~6.3.3",
     "socket.io-client": "^2.2.0",
